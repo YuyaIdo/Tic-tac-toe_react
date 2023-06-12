@@ -8,13 +8,14 @@
   "devDependencies": {
     "react-scripts": "1.0.0"
   },
-  "name": "qv3h3q",
-  "description": null,
+  "name": "tic-tac-toe-react-fork",
+  "description": "",
   "version": "0.0.0",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "keywords": []
 }
